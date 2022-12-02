@@ -1,5 +1,19 @@
-,Tipo,Título,Comentarios / Vídeos,Sala de Zoom,Fecha
-0,Clase,NumPy I,,Promo C: sala principal DA,2022-12-01 8:09:01
-1,Clase,Pandas I ,,Promo C: sala principal DA,2022-12-01 10:42:02
-2,Proyecto,Presentación Proyecto 2,,Promo C: sala principal DA,2022-12-01 13:16:22
-3,Clase,Numpy II,,Promo C: sala principal DA,2022-12-02 8:19:24
+,Sección,Contenido mínimo
+0,Datos personales,"Como mínimo debe incluir :
+1. Nombre y apellidos
+2. Móvil
+3. Email
+4. LinkedIn
+5. GitHub
+6. Opcional: redes sociales/página web propia/portfolio /ciudad"
+1,Foto,Se aconseja incluir una foto
+2,Perfil profesional,"Breve párrafo corto introductorio que te describa, destaque tus logros y ponga en valor tu perfil profesional antes de entrar en Adalab y tu motivación por el sector tecnológico "
+3,Proyectos,"Debe incluir: 
+1. Nombre del proyecto con fecha de realización
+2. Breve descripción del proyecto (stack utilizado, funcionalidades)
+3. Link al github/página web donde ver el proyecto (cuidado con incluir proyectos que no sean open source)
+4. Si se ha hecho en colaboración con una empresa, incluir el nombre de la empresa"
+4,Experiencia,"1. Siempre se detallará la experiencia en orden cronológico inverso. 
+2. Si se acumulan muchos trabajos similares de corta duración, intentar agruparlos bajo una temática común (por ejemplo: “Atención al Cliente”, “Labores administrativas” ...sin detallar cada nombre de empleador)
+3. Incluir fechas
+4. Si aporta, incluir principales funciones desempeñadas en cada puesto"
